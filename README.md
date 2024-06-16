@@ -1,7 +1,7 @@
 ```markdown
 # CodeCademy Projects
 
-This repository contains three projects completed during the "Getting Started with Python for Data Science" course on CodeCademy. Each project is located in its own directory and includes a Jupyter notebook file for analysis.
+This repository contains three projects completed during the "Getting Started with Python for Data Science" course on CodeCademy. Each project is in its directory and includes a Jupyter Notebook file for analysis.
 
 ## Requirements
 - Python 3.x
