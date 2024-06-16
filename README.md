@@ -64,4 +64,3 @@ jupyter notebook Wage_Data_Analysis/project_wage_data_analysis.ipynb
 
 ## License:
 This repository is licensed under the MIT License.
-```
